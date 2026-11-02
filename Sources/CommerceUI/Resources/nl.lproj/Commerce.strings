@@ -1,0 +1,12 @@
+"checking" = "Aankopen controleren";
+"notStarted" = "Proefperiode niet gestart";
+"trial" = "De proefperiode verloopt op %@";
+"unlocked" = "Levenslange toegang";
+"expired" = "Proefperiode verlopen";
+"busy" = "Bezig met verwerken";
+"verificationFailed" = "De aankoop kon niet worden geverifieerd.";
+"unexpectedProduct" = "De aankoop komt niet overeen met het ingestelde product.";
+"productUnavailable" = "Het product is niet beschikbaar.";
+"trialAlreadyUsed" = "Deze proefperiode is al gebruikt.";
+"alreadyUnlocked" = "Levenslange toegang is al actief.";
+"providerFailure" = "De aankoop is mislukt. Probeer het opnieuw.";

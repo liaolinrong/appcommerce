@@ -1,0 +1,12 @@
+"checking" = "Verifica degli acquisti";
+"notStarted" = "Prova non iniziata";
+"trial" = "La prova scade il %@";
+"unlocked" = "Accesso a vita";
+"expired" = "Prova scaduta";
+"busy" = "Elaborazione in corso";
+"verificationFailed" = "Non è stato possibile verificare l’acquisto.";
+"unexpectedProduct" = "L’acquisto non corrisponde al prodotto configurato.";
+"productUnavailable" = "Il prodotto non è disponibile.";
+"trialAlreadyUsed" = "Questa prova è già stata utilizzata.";
+"alreadyUnlocked" = "L’accesso a vita è già attivo.";
+"providerFailure" = "L’acquisto non è riuscito. Riprova.";

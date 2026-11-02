@@ -1,0 +1,12 @@
+"checking" = "Memeriksa pembelian";
+"notStarted" = "Uji coba belum dimulai";
+"trial" = "Uji coba berakhir pada %@";
+"unlocked" = "Akses seumur hidup";
+"expired" = "Uji coba telah berakhir";
+"busy" = "Memproses";
+"verificationFailed" = "Pembelian tidak dapat diverifikasi.";
+"unexpectedProduct" = "Pembelian tidak sesuai dengan produk yang dikonfigurasi.";
+"productUnavailable" = "Produk tidak tersedia.";
+"trialAlreadyUsed" = "Uji coba ini sudah pernah digunakan.";
+"alreadyUnlocked" = "Akses seumur hidup sudah aktif.";
+"providerFailure" = "Pembelian gagal. Silakan coba lagi.";

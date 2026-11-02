@@ -1,0 +1,12 @@
+"checking" = "Satın alma kayıtları kontrol ediliyor";
+"notStarted" = "Deneme süresi başlamadı";
+"trial" = "Deneme süresi %@ tarihinde sona erer";
+"unlocked" = "Ömür boyu erişim";
+"expired" = "Deneme süresi sona erdi";
+"busy" = "İşleniyor";
+"verificationFailed" = "Satın alma doğrulanamadı.";
+"unexpectedProduct" = "Satın alma, yapılandırılan ürünle eşleşmiyor.";
+"productUnavailable" = "Ürün şu anda kullanılamıyor.";
+"trialAlreadyUsed" = "Bu deneme süresi daha önce kullanıldı.";
+"alreadyUnlocked" = "Ömür boyu erişim zaten etkin.";
+"providerFailure" = "Satın alma işlemi başarısız oldu. Lütfen tekrar deneyin.";

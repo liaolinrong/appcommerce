@@ -1,0 +1,12 @@
+"checking" = "Sprawdzanie zakupów";
+"notStarted" = "Okres próbny nie został rozpoczęty";
+"trial" = "Okres próbny wygasa %@";
+"unlocked" = "Dożywotni dostęp";
+"expired" = "Okres próbny wygasł";
+"busy" = "Przetwarzanie";
+"verificationFailed" = "Nie udało się zweryfikować zakupu.";
+"unexpectedProduct" = "Zakup nie odpowiada skonfigurowanemu produktowi.";
+"productUnavailable" = "Produkt jest niedostępny.";
+"trialAlreadyUsed" = "Ten okres próbny został już wykorzystany.";
+"alreadyUnlocked" = "Dożywotni dostęp jest już aktywny.";
+"providerFailure" = "Zakup nie powiódł się. Spróbuj ponownie.";

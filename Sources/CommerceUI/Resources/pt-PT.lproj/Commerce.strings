@@ -1,0 +1,12 @@
+"checking" = "A verificar compras";
+"notStarted" = "Período de avaliação não iniciado";
+"trial" = "O período de avaliação termina em %@";
+"unlocked" = "Acesso vitalício";
+"expired" = "Período de avaliação terminado";
+"busy" = "A processar";
+"verificationFailed" = "Não foi possível verificar a compra.";
+"unexpectedProduct" = "A compra não corresponde ao produto configurado.";
+"productUnavailable" = "O produto não está disponível.";
+"trialAlreadyUsed" = "Este período de avaliação já foi utilizado.";
+"alreadyUnlocked" = "O acesso vitalício já está ativo.";
+"providerFailure" = "A compra falhou. Tente de novo.";

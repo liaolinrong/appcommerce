@@ -1,0 +1,12 @@
+"checking" = "Käufe werden überprüft";
+"notStarted" = "Testzeitraum noch nicht gestartet";
+"trial" = "Der Testzeitraum endet am %@";
+"unlocked" = "Dauerhafter Zugriff";
+"expired" = "Testzeitraum abgelaufen";
+"busy" = "Verarbeitung läuft";
+"verificationFailed" = "Der Kauf konnte nicht verifiziert werden.";
+"unexpectedProduct" = "Der Kauf stimmt nicht mit dem konfigurierten Produkt überein.";
+"productUnavailable" = "Das Produkt ist nicht verfügbar.";
+"trialAlreadyUsed" = "Dieser Testzeitraum wurde bereits genutzt.";
+"alreadyUnlocked" = "Der dauerhafte Zugriff ist bereits aktiv.";
+"providerFailure" = "Der Kauf ist fehlgeschlagen. Bitte versuche es erneut.";

@@ -1,0 +1,12 @@
+"checking" = "Checking purchases";
+"notStarted" = "Trial not started";
+"trial" = "Trial expires on %@";
+"unlocked" = "Lifetime access";
+"expired" = "Trial expired";
+"busy" = "Processing";
+"verificationFailed" = "The purchase could not be verified.";
+"unexpectedProduct" = "The purchase does not match the configured product.";
+"productUnavailable" = "The product is unavailable.";
+"trialAlreadyUsed" = "This trial has already been claimed.";
+"alreadyUnlocked" = "Lifetime access is already active.";
+"providerFailure" = "The purchase operation failed. Please try again.";

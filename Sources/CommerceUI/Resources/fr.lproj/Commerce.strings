@@ -1,0 +1,12 @@
+"checking" = "Vérification des achats";
+"notStarted" = "Essai non commencé";
+"trial" = "L’essai expire le %@";
+"unlocked" = "Accès à vie";
+"expired" = "Essai expiré";
+"busy" = "Traitement en cours";
+"verificationFailed" = "L’achat n’a pas pu être vérifié.";
+"unexpectedProduct" = "L’achat ne correspond pas au produit configuré.";
+"productUnavailable" = "Le produit est indisponible.";
+"trialAlreadyUsed" = "Cet essai a déjà été utilisé.";
+"alreadyUnlocked" = "L’accès à vie est déjà actif.";
+"providerFailure" = "L’achat a échoué. Veuillez réessayer.";

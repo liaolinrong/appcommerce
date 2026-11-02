@@ -1,0 +1,12 @@
+"checking" = "正在檢查購買記錄";
+"notStarted" = "尚未開始試用";
+"trial" = "試用將於 %@ 到期";
+"unlocked" = "已永久解鎖";
+"expired" = "試用已到期";
+"busy" = "正在處理";
+"verificationFailed" = "無法驗證此次購買。";
+"unexpectedProduct" = "此次購買與設定的商品不符。";
+"productUnavailable" = "此商品暫時無法使用。";
+"trialAlreadyUsed" = "此試用已領取，無法再次領取。";
+"alreadyUnlocked" = "已擁有永久使用權限。";
+"providerFailure" = "購買操作失敗，請重試。";
